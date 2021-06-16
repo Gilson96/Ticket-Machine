@@ -1,4 +1,4 @@
-# Ticket Machine Project
+# Ticket Machine
 
 ## Intro
 
